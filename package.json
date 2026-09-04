@@ -1,0 +1,9 @@
+{
+  "name": "wechat-mini-2d-game-template",
+  "version": "0.1.0",
+  "description": "Cocos Creator 3.x 微信小游戏 2D 模板 + 浏览器 demo",
+  "scripts": {
+    "start": "npx http-server demo -c-1 -p 8080"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>WeChat Mini 2D Demo (Browser)</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="game">
+    <div id="score">Score: <span id="scoreVal">0</span></div>
+    <div id="playArea" tabindex="0"></div>
+    <div id="menu">
+      <button id="startBtn">Start</button>
+    </div>
+    <div id="gameOver" class="hidden">
+      <div>Game Over</div>
+      <div>Your score: <span id="finalScore">0</span></div>
+      <button id="reviveBtn">Watch Ad to Revive (Simulated)</button>
+      <button id="retryBtn">Retry</button>
+    </div>
+  </div>
+  <script src="main.js"></script>
+</body>
+</html>

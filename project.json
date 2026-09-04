@@ -1,0 +1,8 @@
+{
+  "uuid": "00000000-0000-0000-0000-000000000000",
+  "name": "wechat-mini-2d-game-template",
+  "version": "3.0.0",
+  "description": "Cocos Creator 3.x project placeholder",
+  "engineVersion": "3.x",
+  "build": {}
+}
